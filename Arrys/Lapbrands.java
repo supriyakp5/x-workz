@@ -1,0 +1,14 @@
+class Lapbrands{
+
+public static void main(String[] args)
+{
+
+String[] laptops={"lenovo","hp","dell","acer","asus","apple","samsong","microsoft"};
+System.out.println("Laptopsbrands");
+
+for(String laptop:laptops)
+{
+System.out.println(laptop);
+}
+}
+}
